@@ -1,6 +1,51 @@
 index.css
-.topNav
-{ background-color:lightseagreen}
+
+html, body {
+  background-color: black;
+   text-color: #E291FE;}
+
+}style
+.heroimg{
+height: 600px;
+padding: 25px;
+}
+.content{
+  width: 500px;
+  margin: 0 auto;
+}
+*footer{
+  background-color: #48484d;
+  text-color:#E291FE
+  ;}
+
+.ul .li{
+  padding: center
+  ;}
+  .ul{a
+    vertical-align: top;
+  }
+
+
+.secondaryhero
+
+.inline-block{
+display:inline-block;
+vertical-align:top;}
+.logo{
+ width: 23%;
+ padding: 1%;
+ text-align: center;
+}
+*nav{
+  width: 73%;
+  padding: 1%;
+}
+*ul{
+  width: 50%;
+  margin-left: auto;
+}
+.logo
+{ background-color:rgb(2, 2, 2)}
 
 .container {
     display: flex; /* or inline-flex */
