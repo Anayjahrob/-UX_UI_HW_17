@@ -12,7 +12,9 @@ html, body {
 background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/sunsrt.png")
 
 /* Set a specific height */
-height: 50%;
+height: 50px;
+margin: 30px 40px 50px 30px;
+width: 50px
 
 /* Position and center the image to scale nicely on all screens */
 background-position: center;
