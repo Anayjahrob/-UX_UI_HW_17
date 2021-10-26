@@ -3,6 +3,7 @@ index.css
 html, body {
   background-color: black;
   height: 100%;
+  color: white;
 }
 
 /* The hero image */
@@ -30,7 +31,7 @@ transform: translate(-50%, -50%);
 color: rgb(247, 247, 247);
 }
 .inline-block {
-    text-color: #E291FE;}
+    color: #E291FE;}
 
 }style
 .heroimg{
@@ -43,7 +44,7 @@ padding: 25px;
 }
 *footer{
   background-color: #5b5b5c;
-  text-color:#E291FE
+ color:#E291FE
   ;}
 
 .ul .li{
