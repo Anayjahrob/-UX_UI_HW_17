@@ -2,7 +2,9 @@ index.css
 
 html, body {
   background-color: black;
-   text-color: #E291FE;}
+}
+.inline-block {
+    text-color: #E291FE;}
 
 }style
 .heroimg{
@@ -26,7 +28,7 @@ padding: 25px;
   }
 
 
-.secondaryhero
+.secondaryHero
 
 .inline-block{
 display:inline-block;
